@@ -144,6 +144,17 @@ namespace Task6
         }
         public void ToArray(ref T[] A)
         {
+            if (A == null)
+            {
+                A = ToArray();
+                return;
+            }
+            if (A.Length == elementCount)
+            {
+                for (int i = 0; i < elementCount; i++)
+                    A[i] = elementData[i];
+                return;
+            }
             A = new T[elementCount];
             for (int i = 0; i < elementCount; i++)
                 A[i] = elementData[i];
