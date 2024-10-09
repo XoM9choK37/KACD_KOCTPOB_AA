@@ -55,7 +55,6 @@ namespace Task4
         {
             for (int i = 0; i < A.Length; i++)
                 Add(A[i]);
-            size += A.Length;
         }
         public void Clear()
         {
