@@ -66,7 +66,6 @@ namespace Task6
         {
             for (int i = 0; i < A.Length; i++)
                 Add(A[i]);
-            elementCount += A.Length;
         }
         public void Clear()
         {
