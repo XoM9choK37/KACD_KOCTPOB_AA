@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\bin\Debug\Task9.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\bin\Debug\Task9.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\bin\Debug\Task9.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\obj\Debug\Task9.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task9\Task9\obj\Debug\Task9.pdb
