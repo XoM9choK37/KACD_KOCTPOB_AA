@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\bin\Debug\Task11.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\bin\Debug\Task11.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\bin\Debug\Task11.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\obj\Debug\Task11.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\obj\Debug\Task11.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\obj\Debug\Task11.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task11\Task11\obj\Debug\Task11.pdb
