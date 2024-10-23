@@ -108,6 +108,7 @@ namespace Task10
             {
                 elementData[elementCount] = element;
                 elementCount++;
+                Rebuild();
                 return;
             }
             T[] newElementData = new T[2 * elementData.Length + 1];
