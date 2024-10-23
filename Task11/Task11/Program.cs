@@ -95,6 +95,7 @@ namespace Task11
             {
                 queue[size] = element;
                 size++;
+                Rebuild();
                 return;
             }
             int newSize;
