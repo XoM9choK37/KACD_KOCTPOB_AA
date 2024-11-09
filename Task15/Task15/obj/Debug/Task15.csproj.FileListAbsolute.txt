@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\bin\Debug\Task15.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\bin\Debug\Task15.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\bin\Debug\Task15.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\obj\Debug\Task15.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\obj\Debug\Task15.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\obj\Debug\Task15.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task15\Task15\obj\Debug\Task15.pdb
