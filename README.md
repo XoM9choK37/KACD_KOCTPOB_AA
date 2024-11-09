@@ -1,1 +1,1 @@
-# KACD_KOCTPOB_AA
+# Обобщённый класс MyArrayDeque (двунаправленная очередь)
