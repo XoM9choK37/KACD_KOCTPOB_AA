@@ -171,8 +171,9 @@ namespace Task6
             for (int i = 0; i < elementData.Length; i++)
                 newElementData[i] = elementData[i];
             for (int i = elementData.Length; i > index; i--)
-                elementData[i] = elementData[i - 1];
-            elementData[index] = element;
+                newElementData[i] = newElementData[i - 1];
+            newElementData[index] = element;
+            elementData = newElementData;
             elementCount++;
         }
         public void AddAll(int index, T[] A)
