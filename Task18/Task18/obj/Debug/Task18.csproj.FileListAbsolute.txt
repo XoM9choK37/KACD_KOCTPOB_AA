@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\bin\Debug\Task18.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\bin\Debug\Task18.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\bin\Debug\Task18.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\obj\Debug\Task18.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\obj\Debug\Task18.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\obj\Debug\Task18.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task18\Task18\obj\Debug\Task18.pdb
