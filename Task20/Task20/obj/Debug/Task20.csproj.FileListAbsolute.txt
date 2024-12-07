@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\bin\Debug\Task20.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\bin\Debug\Task20.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\bin\Debug\Task20.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\obj\Debug\Task20.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\obj\Debug\Task20.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\obj\Debug\Task20.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task20\Task20\obj\Debug\Task20.pdb

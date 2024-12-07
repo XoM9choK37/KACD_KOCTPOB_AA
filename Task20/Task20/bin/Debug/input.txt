@@ -1,0 +1,4 @@
+int jaja = 125; float num = 9876;
+double d = 5; string str = 1039;
+float num = 12345; float num = 123;
+int k = 0;
