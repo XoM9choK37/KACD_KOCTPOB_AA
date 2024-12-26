@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\bin\Debug\Task29TestConsoleApp.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\bin\Debug\Task29TestConsoleApp.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\bin\Debug\Task29TestConsoleApp.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\obj\Debug\Task29TestConsoleApp.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\obj\Debug\Task29TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\obj\Debug\Task29TestConsoleApp.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29TestConsoleApp\obj\Debug\Task29TestConsoleApp.pdb

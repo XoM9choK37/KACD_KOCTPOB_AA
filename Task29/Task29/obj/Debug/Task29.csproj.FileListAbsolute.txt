@@ -1,0 +1,10 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\bin\Debug\Task29.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\bin\Debug\Task29.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\bin\Debug\Task29.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.Properties.Resources.resources
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.csproj.GenerateResource.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task29\Task29\obj\Debug\Task29.Form1.resources
