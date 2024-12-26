@@ -1,0 +1,7 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\bin\Debug\Task26.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\bin\Debug\Task26.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\bin\Debug\Task26.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\obj\Debug\Task26.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\obj\Debug\Task26.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\obj\Debug\Task26.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task26\Task26\obj\Debug\Task26.pdb
