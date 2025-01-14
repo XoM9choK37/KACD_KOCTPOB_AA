@@ -1,0 +1,10 @@
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\bin\Debug\Task30.exe.config
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\bin\Debug\Task30.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\bin\Debug\Task30.pdb
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.csproj.AssemblyReference.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.Form1.resources
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.Properties.Resources.resources
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.csproj.GenerateResource.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.csproj.CoreCompileInputs.cache
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.exe
+D:\User\Documents\CodesAndPrograms\3semester\KACD\Task30\Task30\obj\Debug\Task30.pdb
